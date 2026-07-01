@@ -1,0 +1,256 @@
+canonical_identifier: bkk:krp/KR6v0403/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0403/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天然和尚年譜
+  identifiers:
+    krp: KR6v0403
+    cbeta: B22n0119
+    cbeta_old_id: B22n0119
+    authorityid: CA0006203
+    json_key: B0119
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B22/B22n0119.xml
+    old_id: B22n0119
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0403_001-B.yaml, hash: 'sha256:23ec96aaf726f7e078ae78f3e3c39c31beb656fa773b5f4e33524c055c3a3c5f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0403_001-B.markers.yaml, hash: 'sha256:d7cea85a534fc118c59c2b30686f237a8c34acce58140fca071e33092c7f8943'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 42178
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 畫像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 墨蹟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-3
+    span:
+    - body
+    - 0
+    - 0
+  label: 引言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-4
+    span:
+    - body
+    - 539
+    - 539
+  label: 年譜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-5
+    span:
+    - body
+    - 1156
+    - 1156
+  label: 明．萬曆～崇禎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-6
+    span:
+    - body
+    - 8732
+    - 8732
+  label: 明．崇禎～永曆　清．順治
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-7
+    span:
+    - body
+    - 20471
+    - 20471
+  label: 清．康熙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-8
+    span:
+    - body
+    - 36156
+    - 36156
+  label: 著述考
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-9
+    span:
+    - body
+    - 36163
+    - 36163
+  label: 楞伽心印四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-10
+    span:
+    - body
+    - 36568
+    - 36568
+  label: 首楞嚴直指十卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-11
+    span:
+    - body
+    - 37949
+    - 37949
+  label: 金剛正法眼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-12
+    span:
+    - body
+    - 37998
+    - 37998
+  label: 般若心經論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-13
+    span:
+    - body
+    - 38036
+    - 38036
+  label: 天然昰禪師語錄十二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-14
+    span:
+    - body
+    - 39995
+    - 39995
+  label: 各剎語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-15
+    span:
+    - body
+    - 40164
+    - 40164
+  label: 禪醉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-16
+    span:
+    - body
+    - 40336
+    - 40336
+  label: 焚筆
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-17
+    span:
+    - body
+    - 40383
+    - 40383
+  label: 天然和尚同住訓略
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-18
+    span:
+    - body
+    - 40647
+    - 40647
+  label: 東莞縣志八卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-19
+    span:
+    - body
+    - 40721
+    - 40721
+  label: 似詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-20
+    span:
+    - body
+    - 41450
+    - 41450
+  label: 瞎堂詩集二十卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-21
+    span:
+    - body
+    - 41689
+    - 41689
+  label: 丹霞詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0403_B_001-mulu-22
+    span:
+    - body
+    - 41963
+    - 41963
+  label: 遺作
+  type: mulu
+  level: 1
+hash: sha256:7db4312e9f27b300257cd7ebe83c5bf8a7373699fc21d80415300e9160696328
