@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0403/v1
 canonical_location: https://kanripo.org/bkk/KR6v0403/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 天然和尚年譜
   source:
@@ -18,9 +18,9 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 1, filename: KR6v0403_001.yaml, hash: 'sha256:23ec96aaf726f7e078ae78f3e3c39c31beb656fa773b5f4e33524c055c3a3c5f'}
+  - {seq: 1, filename: KR6v0403_001.yaml, hash: 'sha256:55f96b0dfc5ec0d9c7a94387f96dd4023da5fc7bf9c404bb1ac161c48623c66f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0403_001.markers.yaml, hash: 'sha256:0a3e9aacbbf94601adde097cc5fb14dc105d8139744fcf1c230235cfc63d6117'}
+  - {seq: 1, role: markers, filename: assets/KR6v0403_001.markers.yaml, hash: 'sha256:35ffdc5f9ea93de9d934c30bad729c2b4520c6a60bacf7fcef8388f4faa451f3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -252,4 +252,7 @@ table_of_contents:
   label: 遺作
   type: mulu
   level: 1
-hash: sha256:e06f748dab62ef699a46a3ef90d808adde3a25a93fb6005d50397fe7ac4fa986
+hash: sha256:a74e502014610daa48400f90fb64a3fc51d413345d43b2a2088e85044006b540
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
